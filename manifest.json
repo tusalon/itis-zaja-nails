@@ -1,0 +1,22 @@
+{
+  "name": "Itis_zaja_nails",
+  "short_name": "Itis_zaja_na",
+  "description": "Uñas y belleza - Tu espacio de cuidado personal",
+  "start_url": "/itis-zaja-nails/",
+  "scope": "/itis-zaja-nails/",
+  "display": "standalone",
+  "background_color": "#ec4899",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/itis-zaja-nails/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/itis-zaja-nails/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
